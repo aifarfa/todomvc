@@ -1,4 +1,20 @@
 {
+	"angular2": {
+		"name": "Angular2",
+		"description": "Angular is a development platform for building mobile and desktop web applications",
+		"homepage": "https://angular.io/",
+		"examples": [{
+			"name": "Example",
+			"url": "examples/angular2"
+		}],
+		"link_groups": [{
+			"heading": "Official Resources",
+			"links": [{
+				"name": "Tutorial",
+				"url": "https://angular.io/docs/js/latest/quickstart.html"
+			}]
+		}]
+	},
 	"angularjs": {
 		"name": "AngularJS",
 		"description": "HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.",
